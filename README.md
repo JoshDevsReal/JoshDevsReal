@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Josh Earl Conrad D.C. Paclibar (@JoshDevsReal)
 
 <p align="center">
-  <img src="https://i.imgur.com/QZYYb5C.gif" alt="Banner" />
+  <img src="https://i.imgur.com/QZYYb5C.png" alt="Banner" />
 </p>
 
 ## 👀 I’m interested in:
