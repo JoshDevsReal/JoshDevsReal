@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Josh Earl Conrad D.C. Paclibar (@JoshDevsReal)
 
-![Banner](https://i.imgur.com/L9ovFNl.gif) 
+<p align="center">
+  <img src="https://i.imgur.com/L9ovFNl.gif" alt="Banner" />
+</p>
 
 ## 👀 I’m interested in:
 - Exploring the intersection of **technology and creativity**.
